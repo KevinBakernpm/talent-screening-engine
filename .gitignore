@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+
+# generated data and model artefacts
+data/generated/
+*.csv
+*.joblib
+*.pkl
+models/
+reports/
